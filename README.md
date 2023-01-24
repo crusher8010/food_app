@@ -1,3 +1,11 @@
+##Food Cart Page
+
+This is a simple cart page where you can add items easily and remove items. This is a Single page system.
+
+##Screenshots
+
+![Screenshot (136)](https://user-images.githubusercontent.com/107460084/214229266-5cfc391b-4737-4551-a306-efeb699cde15.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
